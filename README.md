@@ -1,4 +1,4 @@
-# Games Den Games
+# Games from the Cave
 
 The Games Den is University of Alberta's game development student club.
 Here, we're making a colleciton of minigames that act as a collage showcasing member talent.
@@ -14,6 +14,7 @@ It is
   - We're not making "game of year here". Your ugly stickman drawing is absolutely welcome. Contributions that mesh well together will be curated into separate releases.
 
 # Rules
+- Contributions are you own
 - All contribtions are freely licensed
   - Art, Audio, etc is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
   - Code is licensed under the [MIT License](https://opensource.org/license/mit)
